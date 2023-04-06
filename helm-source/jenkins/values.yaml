@@ -5,7 +5,7 @@ image:
   repository: jfrog.it-academy.by/public/jenkins-ci
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "ikuzmin"
 service:
   httpport: 8080
   jnlpport: 50000
